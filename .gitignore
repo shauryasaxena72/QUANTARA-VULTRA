@@ -1,0 +1,28 @@
+# Virtual environments
+.venv/
+.venv1/
+.venv2/
+
+# Environment variables (never commit these!)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Data (optional - depends on your workflow)
+*.db
+*.csv

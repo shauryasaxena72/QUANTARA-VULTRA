@@ -1,7 +1,5 @@
 # Virtual environments
 .venv/
-.venv1/
-.venv2/
 
 # Environment variables (never commit these!)
 .env
